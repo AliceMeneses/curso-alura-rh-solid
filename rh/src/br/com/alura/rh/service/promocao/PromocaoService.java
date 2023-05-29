@@ -1,4 +1,4 @@
-package br.com.alura.rh.service;
+package br.com.alura.rh.service.promocao;
 
 import br.com.alura.rh.ValidacaoException;
 import br.com.alura.rh.model.Cargo;
